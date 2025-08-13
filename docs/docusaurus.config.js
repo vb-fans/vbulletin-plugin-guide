@@ -3,6 +3,8 @@ module.exports = {
   tagline: 'Create plugins for vBulletin 6',
   url: 'https://vb-fans.github.io/vbulletin-plugin-guide/',
   baseUrl: '/vbulletin-plugin-guide/',
+    // تنظیمات organizationName
+  organizationName: 'vb-fans',  
   themeConfig: {
     navbar: {
       title: 'vBulletin Plugin Guide',
