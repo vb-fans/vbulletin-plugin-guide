@@ -1,7 +1,7 @@
 module.exports = {
   title: 'vBulletin Plugin Guide',
   tagline: 'Create plugins for vBulletin 6',
-  url: 'https://your-github-username.github.io',
+  url: 'https://vb-fans.github.io/vbulletin-plugin-guide/',
   baseUrl: '/vbulletin-plugin-guide/',
   themeConfig: {
     navbar: {
@@ -13,7 +13,7 @@ module.exports = {
           position: 'left',
         },
         {
-          href: 'https://github.com/your-username/vbulletin-plugin-guide',
+          href: 'https://github.com/vb-fans/vbulletin-plugin-guide',
           label: 'GitHub',
           position: 'right',
         },
