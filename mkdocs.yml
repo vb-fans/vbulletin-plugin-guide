@@ -4,4 +4,4 @@ repo_url: https://github.com/vb-fans/vbulletin-plugin-guide/  # اختیاری،
 theme:
   name: material
 docs_dir: docs
-site_dir: 'docs'
+site_dir: .
