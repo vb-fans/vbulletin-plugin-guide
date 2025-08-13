@@ -5,6 +5,7 @@ module.exports = {
   baseUrl: '/vbulletin-plugin-guide/',
   organizationName: 'vb-fans',
   projectName: 'vbulletin-plugin-guide',
+
   themeConfig: {
     navbar: {
       title: 'vBulletin Plugin Guide',
@@ -36,4 +37,10 @@ module.exports = {
       ],
     },
   },
+
+  theme: {
+    name: 'material',
+  },
+
+  trailingSlash: false,
 };

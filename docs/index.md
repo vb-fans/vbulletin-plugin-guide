@@ -12,4 +12,4 @@ To get started with plugin development for **vBulletin 6**, follow these steps:
 
 ...
 
-Hello my  name is jack
+Hello my  name is jack slamsd
