@@ -1,7 +1,0 @@
-site_name: vBulletin Plugin Guide
-site_url: https://vb-fans.github.io/vbulletin-plugin-guide/
-repo_url: https://github.com/vb-fans/vbulletin-plugin-guide/  # اختیاری، اما توصیه می‌شود
-theme:
-  name: material
-docs_dir: docs
-site_dir: site
